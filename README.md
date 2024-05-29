@@ -1,4 +1,4 @@
-# Tasks to learn JavaScript and coding principles
+# Tasks to learn JavaScript
 
 > Created during my time [@CodingBootcampsEurope](https://github.com/coding-bootcamps-eu).
 > This repo was just for learning purposes and is not cleaned up.
